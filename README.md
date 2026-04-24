@@ -6,7 +6,7 @@ NaaS is a full-stack application designed to automate the process of saying "No.
 
 ---
 
-## 🛠️ Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have the following installed:
 * **Python 3.8+**
